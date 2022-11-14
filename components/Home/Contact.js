@@ -37,13 +37,22 @@ const Contact = () => {
                   alt="Vinod's github"
                 />
               </Link>
-              <Link href="https://www.instagram.com/vinod..">
+              <Link href="tt">
                 <Image
                   className={styles.img}
                   src="/icons/instaGram.png"
                   width={70}
                   height={70}
                   alt="Vinod's instaGram"
+                />
+              </Link>
+              <Link href="https://youtu.be/yRolh8QirCA">
+                <Image
+                  className={styles.img}
+                  src="/icons/youtube.png"
+                  width={65}
+                  height={10}
+                  alt="Vinod's youtube"
                 />
               </Link>
               
